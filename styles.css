@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        #skills, #projects {
+            margin-top: 20px;
+        }
+        img {
+            max-width: 200px;
+            height: auto;
+            border-radius: 50%;
+        }
